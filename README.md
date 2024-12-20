@@ -20,6 +20,8 @@ Serving the HTML pages.
 ## Step 5:
 Testing the webserver.
 
+
+
 # PROGRAM:
 ```
 views.py
@@ -149,6 +151,8 @@ serveraddress =('',8000)
 httpd = HTTPServer(serveraddress,MyServer)
 httpd.serve_forever()
 ```
+#SERVER SIDE PROCESSING:
+![image](https://github.com/user-attachments/assets/762417bc-3c61-49d5-b2db-92c0119802c0)
 
    
 
